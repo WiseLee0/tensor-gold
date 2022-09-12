@@ -1,0 +1,13 @@
+.App {
+  position: relative;
+}
+.background {
+  width: 800px;
+}
+.canvas {
+  width: 800px;
+  height: 512px;
+  position: absolute;
+  inset: 0;
+  z-index: 99;
+}

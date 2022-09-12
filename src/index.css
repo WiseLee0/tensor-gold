@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.hj-avatar {
+  background-position: -200px -1105px;
+  background-image: url("./assets/atlas.png");
+  width: 67px;
+  height: 67px;
+}
+.hj-gold {
+  background-position: -399px -1083px;
+  background-image: url("./assets/atlas.png");
+  width: 72px;
+  height: 67px;
+}
+.hj-stone{
+  background-position: -353px -1092px;
+  background-image: url("./assets/atlas.png");
+  width: 45px;
+  height: 40px;
+}
+.hj-hook{
+  background-position: -989px -759px;
+  background-image: url("./assets/atlas.png");
+  width: 45px;
+  height: 16px;
+}
